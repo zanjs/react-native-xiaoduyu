@@ -1,0 +1,46 @@
+{
+  "name": "n2tiao",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "jcore-react-native": "^1.2.5",
+    "prop-types": "^15.6.1",
+    "react": "16.3.0-alpha.1",
+    "react-native": "0.54.2",
+    "react-native-actionsheet": "^2.3.0",
+    "react-native-cookie": "^0.2.0",
+    "react-native-flexi-radio-button": "^0.2.2",
+    "react-native-html-render": "^1.0.5",
+    "react-native-htmlview": "^0.12.1",
+    "react-native-image-crop-picker": "^0.20.0",
+    "react-native-iphone-x-helper": "^1.0.2",
+    "react-native-keyboard-spacer": "^0.4.1",
+    "react-native-lightbox": "^0.7.0",
+    "react-native-looped-carousel-2": "^0.1.7",
+    "react-native-modal-picker-2": "^0.0.16",
+    "react-native-qiniu": "^0.3.0",
+    "react-native-scrollable-tab-view": "^0.8.0",
+    "react-native-splash-screen": "^3.0.6",
+    "react-native-swipeout": "^2.3.3",
+    "react-native-webview-messaging": "^1.2.3",
+    "react-native-wechat": "^1.9.9",
+    "react-navigation": "^1.5.8",
+    "react-redux": "^5.0.7",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0"
+  },
+  "devDependencies": {
+    "babel-jest": "23.0.0-alpha.0",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "22.4.2",
+    "react-test-renderer": "16.3.0-alpha.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
