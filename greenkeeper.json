@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "editor/package.json",
+        "package.json"
+      ]
+    }
+  }
+}
